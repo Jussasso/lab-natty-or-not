@@ -2,9 +2,6 @@
 
 ### As IAs Generativas na elaboração de textos, contratos e outros modelos de documentos.
 
-```markdown
-
-
 ## 📒 Descrição
 Este e-book trata-se de como utilizar as IAs na  elaboração de textos,contratos e outros documentos, sendo um auxílio
 aos profissionais da área jurídica.
@@ -23,7 +20,6 @@ Utilizei o ChatGPT para criar o modelos  e o  o Gemini para pesquisar sobre info
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
 ### Exemplos e Insigths
 
