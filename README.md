@@ -30,10 +30,9 @@ IAs Generativas são de grande valia na elaboração de modelos. Como exemplo, c
 
 ## Links Interessantes
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+[ChatGPT na Advocacia: aprenda a obter respostas de alta qualidade e escrever prompts para tarefas jurídicas](https://www.legalwtech.com.br/artigo/chatgpt-na-advocacia:-aprenda-a-obter-respostas-de-alta-qualidade-e-escrever-prompts-para-tarefas-juri%CC%81dicas/)
+[Como utilizar o Chat GPT em contratos](https://www.tiagofachini.com.br/como-utilizar-o-chat-gpt-em-contratos/)
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
 
-![ChatGPT na Advocacia: aprenda a obter respostas de alta qualidade e escrever prompts para tarefas jurídicas](https://www.legalwtech.com.br/artigo/chatgpt-na-advocacia:-aprenda-a-obter-respostas-de-alta-qualidade-e-escrever-prompts-para-tarefas-juri%CC%81dicas/)
 
 
